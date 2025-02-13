@@ -29,7 +29,6 @@ This project processes YouTube trending video data from multiple regions using a
 ├── scripts/                # PySpark ETL scripts
 ├── sql/                    # SQL queries for Hive & MySQL
 ├── dashboards/             # Superset/Metabase setup files
-├── docker-compose.yml      # Optional Docker setup
 ├── README.md               # Project documentation
 ```
 
